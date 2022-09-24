@@ -7,6 +7,12 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
+.logo {
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+}
+
 nav {
 	border-bottom: 2px solid orange;
 }

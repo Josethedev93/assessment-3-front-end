@@ -42,3 +42,39 @@ input {
 img {
 	max-width: 300px;
 }
+
+.profilepic{
+	height: 200px;
+	width: 175px;
+	border-radius: 50%;
+}
+
+.skills {
+	font-size: 30px;
+}
+
+.interests {
+	font-size: 30px;
+}
+
+.goals {
+	font-size: 30px;
+}
+
+.careerlist {
+	margin-left: 45px;
+}
+.favoriteBtn {
+	height: 100px;
+	width: 100px;
+	color: black;
+	background-color: yellow;
+	border: none;
+	border-radius: 50px;
+}
+
+.favoriteBtn:hover{
+	background-color: green;
+	transform: scale(1.5, 1.5);
+	cursor: pointer;
+}

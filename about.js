@@ -1,7 +1,3 @@
-console.log("hello world");
-
-
-
 function handleSubmit(evt) {
 	evt.preventDefault();
 	
